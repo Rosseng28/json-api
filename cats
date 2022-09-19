@@ -9,7 +9,7 @@
 	},
 	{
 	  "name": "Saiorse",
-	  "breed": "Scottish fold",
+	  "breed": "Scottish Fold",
 	  "age": "10 months",
 	  "color": "Ash Grey",
 	  "isEvaccinated":true
