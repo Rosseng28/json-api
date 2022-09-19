@@ -1,24 +1,24 @@
 {
   "cat": [
 	{
-	  "name": "kuro",
-	  "breed": "persian",
+	  "name": "Kuro",
+	  "breed": "Persian",
 	  "age": "1 year",
-	  "color": "black",
+	  "color": "Black",
 	  "isEvaccinated":true
 	},
 	{
-	  "name": "saiorse",
-	  "breed": "scottish fold",
+	  "name": "Saiorse",
+	  "breed": "Scottish fold",
 	  "age": "10 months",
-	  "color": "ash grey",
+	  "color": "Ash Grey",
 	  "isEvaccinated":true
 	},
 	{
-	  "name": "crescent",
-	  "breed": "saimese",
+	  "name": "Crescent",
+	  "breed": "Saimese",
 	  "age": "6 months",
-	  "color": "white",
+	  "color": "White",
 	  "isEvaccinated": false
 	}
   ]
